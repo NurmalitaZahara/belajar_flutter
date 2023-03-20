@@ -12,7 +12,7 @@ class MyHomePage extends StatelessWidget {
       backgroundColor: Color.fromARGB(255, 2, 9, 32),
       appBar: AppBar(
         backgroundColor: Colors.amberAccent,
-        title: const Text("Escobar Project"),
+        title: const Text("Malita Project"),
         centerTitle: true,
       ),
       body: SingleChildScrollView(
@@ -27,7 +27,7 @@ class MyHomePage extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      "Halo gess",
+                      "Halo guys",
                       style: TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.w400,
@@ -54,7 +54,7 @@ class MyHomePage extends StatelessWidget {
               color: Color.fromARGB(255, 28, 5, 80),
               child: const Center(
                 child: Text(
-                  "Escobar ",
+                  "Nurmalita Zahara ",
                   style: TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.w400,
